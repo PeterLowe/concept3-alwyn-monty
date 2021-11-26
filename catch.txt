@@ -4,14 +4,40 @@ Date - 26/11/21
 
 Catch game
 
+----------------------------------------------------------------------
 Key Elements 
-
+----------------------------------------------------------------------
 Possible catching item ideas
+----------------------------------------------------------------------
 
 - Drip /text
 
 - Blue bandanas
 
-- Wonster cans 
+- Monster cans and Glizzys - Final idea
 
- 
+----------------------------------------------------------------------
+Possible character designs
+----------------------------------------------------------------------
+
+- Kevin Spacey 
+
+- Average Coney Island male (Kyle) - Final idea
+
+- A random child
+
+----------------------------------------------------------------------
+Possible Level Design
+----------------------------------------------------------------------
+
+- Coney Island - Final idea
+
+- Astroworld
+
+----------------------------------------------------------------------
+Gameplay
+
+{i} The player will play as Kyle who has to try catch monster cans and Glizzys in their mouth or they will be arrested or "Fuck ya life"
+
+{i} The player will be put into Coney island
+
