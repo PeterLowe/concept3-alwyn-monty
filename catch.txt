@@ -14,7 +14,7 @@ Possible catching item ideas
 
 - Blue bandanas
 
-- Monster cans and Glizzys - Final idea
+- Glizzys - Final idea
 
 ----------------------------------------------------------------------
 Possible character designs
@@ -22,7 +22,7 @@ Possible character designs
 
 - Kevin Spacey 
 
-- Average Coney Island male (Kyle) - Final idea
+- Average Coney Island male (Byron) - Final idea
 
 - A random child
 
@@ -37,7 +37,8 @@ Possible Level Design
 ----------------------------------------------------------------------
 Gameplay
 
-{i} The player will play as Kyle who has to try catch monster cans and Glizzys in their mouth or they will be arrested or "Fuck ya life"
+{i} The player will play as Byron who has to try catch and Glizzys in their mouth or they will be arrested or "Fuck ya life"
 
-{i} The player will be put into Coney island
+{i} The player will be put into Coney island to try catch them glizzys
+
 
